@@ -1,344 +1,268 @@
 Band,Date,Time,Trap,Species,Sex,FA(mm),Wt(g)
-MB0001,5-May-10,21:00,KL0359,Balionycteris maculata,F,42.90,15.00
-MB0002,8-May-10,7:00,KL0509,Cynopterus brachyotis,F,57.80,34.00
-MB0003,8-May-10,21:00,KL0397,Cynopterus brachyotis,F,62.90,34.00
-MB0004,8-May-10,21:00,KL0509,Cynopterus brachyotis,M,61.40,27.00
-MBCRU7115,24-May-10,7:00,KL0645,Emballonura monticola,F,43.90,5.25
-MBCRU2168,10-Jun-10,21:00,KL0162,Emballonura monticola,F,44.60,9.75
-MBCRUC2173,10-May-10,21:00,KL0491,Hipposideros bicolor 142 kHz,F,42.80,8.00
-MBCRUC2230,6-Jun-10,21:00,KL0135,Hipposideros bicolor 142 kHz,F,43.00,8.00
-MBCRUC2044,8-May-10,21:00,KL0507,Hipposideros bicolor 142 kHz,F,44.40,8.00
-MBCRUC2165,4-May-10,21:00,KL0343,Hipposideros bicolor 142 kHz,F,43.10,8.25
-MBCRUC2174,10-May-10,21:00,KL0423,Hipposideros bicolor 142 kHz,F,43.30,8.25
-MBCRUC1997,2-May-10,21:00,KL0301,Hipposideros bicolor 142 kHz,F,44.60,10.25
-MBCRUC1997,2-May-10,21:00,KL0301,Hipposideros bicolor 142 kHz,F,44.60,10.25
-MBCRUC2178,11-May-10,21:00,KL0435,Hipposideros bicolor 142 kHz,M,42.50,9.00
-MBCRUC0915,31-May-10,7:00,KL0783,Hipposideros bicolor 142kHz,F,44.30,9.25
-MBCRUC2189,24-May-10,21:00,KL0648,Hipposideros bicolor 142kHz,F,44.60,10.25
-MBCRUC2196,24-May-10,21:00,KL0701,Hipposideros bicolor 142kHz,M,42.90,9.00
-MBCRUC2202,24-May-10,7:00,KL0649,Hipposideros cervinus,F,51.20,9.25
-MBCRUC2208,27-May-10,7:00,KL0734,Hipposideros cervinus,F,49.50,9.50
-MBCRUC2227,4-Jun-10,7:00,KL0697,Hipposideros cervinus,F,48.30,10.00
-MBCRUC0634,4-Jun-10,21:00,KL0668,Hipposideros cervinus,F,49.20,10.00
-MBCRUC2231,8-Jun-10,21:00,KL0144,Hipposideros cervinus,F,50.40,10.00
-MBCRUC2201,24-May-10,7:00,KL0649,Hipposideros cervinus,F,51.00,10.25
-MBCRUC1978,10-May-10,21:00,KL0423,Hipposideros cervinus,F,50.90,10.50
-MBCRUC2211,28-May-10,21:00,KL0762,Hipposideros cervinus,F,51.40,10.50
-MBCRUC2229,4-Jun-10,7:00,KL0697,Hipposideros cervinus,F,49.90,10.75
-MBCRUC2195,24-May-10,21:00,KL0648,Hipposideros cervinus,F,49.80,11.00
-MBCRUC0865,24-May-10,21:00,KL0642,Hipposideros cervinus,F,50.40,11.00
-MBCRUC0490,4-May-10,21:00,KL0343,Hipposideros cervinus,F,50.50,11.00
-MBCRUC2191,24-May-10,21:00,KL0648,Hipposideros cervinus,F,49.50,11.25
-MBCRUC0802,3-May-10,21:00,KL0315,Hipposideros cervinus,F,49.90,11.25
-MBCRUC2232,10-Jun-10,21:00,KL0152,Hipposideros cervinus,F,50.20,11.50
-MBCRUC2204,27-May-10,21:00,KL0742,Hipposideros cervinus,F,50.60,12.50
-MBCRUC06XX,24-May-10,21:00,KL0644,Hipposideros cervinus,F,49.30,12.75
-MBCRUC1399,9-May-10,21:00,KL0415,Hipposideros cervinus,F,51.60,14.00
-MBCRUC2389,24-May-10,21:00,KL0642,Hipposideros cervinus,M,48.90,10.50
-MBCRUC2162,2-May-10,7:00,KL0459,Hipposideros cervinus,M,49.30,10.75
-MBCRUC2162,2-May-10,7:00,KL0459,Hipposideros cervinus,M,49.30,10.75
-MBCRU2219,30-May-10,21:00,KL0807,Hipposideros cervinus,M,48.50,14.25
-THK3376,12-May-10,21:00,KL0016,Hipposideros diadema,F,82.90,41.00
-THK3373,11-May-10,21:00,KL0010,Hipposideros diadema,F,82.10,44.00
-THK3377,12-May-10,7:00,KL0014,Hipposideros diadema,F,82.60,45.00
-THK3375,12-May-10,21:00,KL0020,Hipposideros diadema,F,82.20,47.00
-THK3374,11-May-10,21:00,KL0008,Hipposideros diadema,M,82.60,46.00
-THK3381,10-Jun-10,21:00,KL0168,Hipposideros diadema,M,81.80,47.00
-THK3380,28-May-10,21:00,KL0760,Hipposideros diadema,M,83.50,48.00
-THK3345,28-May-10,21:00,KL0762,Hipposideros diadema,M,84.90,48.00
-THK3379,28-May-10,21:00,KL0762,Hipposideros diadema,M,87.30,54.00
-THK3338,24-May-10,21:00,KL0709,Hipposideros diadema,M,81.10,56.00
-THK3378,28-May-10,21:00,KL0776,Hipposideros diadema,M,83.50,57.00
-THK3342,28-May-10,21:00,KL0770,Hipposideros diadema,M,87.50,58.00
-THK3341,28-May-10,21:00,KL0770,Hipposideros diadema,M,85.00,61.00
-THK3382,14-Jun-10,21:00,KL0088,Hipposideros diadmea,M,87.20,52.00
-MBCRUC2194,24-May-10,21:00,KL0648,Hipposideros larvatus,F,57.70,18.75
-MBCRUC2209,28-May-10,21:00,KL0770,Hipposideros larvatus,F,57.40,21.00
-MBCRUC2183,12-May-10,21:00,KL0026,Hipposideros ridleyi,F,48.90,8.75
-MBCRUC2161,2-May-10,7:00,KL0459,Hipposideros ridleyi,F,49.70,9.50
-MBCRUC2161,2-May-10,7:00,KL0459,Hipposideros ridleyi,F,49.70,9.50
-MBCRUC2199,24-May-10,7:00,KL0645,Hipposideros ridleyi,F,50.20,10.00
-MBCRUC2181,12-May-10,21:00,KL0014,Hipposideros ridleyi,F,47.40,10.25
-MBCRUC2179,11-May-10,7:00,KL0002,Hipposideros ridleyi,F,48.70,10.50
-MBCRUC2217,29-May-10,7:00,KL0790,Hipposideros ridleyi,F,49.10,11.00
-MBCRC2144,29-May-10,21:00,KL0786,Hipposideros ridleyi,M,47.70,10.00
-MBCRUC1267,10-Jun-10,7:00,KL0164,Hipposideros ridleyi,M,48.50,10.00
-MBCRU2158,30-May-10,21:00,KL0789,Kerivoua intermedia,M,27.80,3.50
-MBCRU2159,30-May-10,21:00,KL0805,Kerivoua intermedia,M,28.60,3.50
-MBCRU2153,30-May-10,21:00,KL0803,Kerivoua intermedia,M,28.70,3.50
-MBCRU2157,30-May-10,21:00,KL0789,Kerivoua intermedia,M,29.00,3.50
-MBCRU5518,30-May-10,7:00,KL0787,Kerivoua intermedia,M,29.60,3.50
-MBCRU5594,6-Jun-10,21:00,KL0686,Kerivoula intermedia,F,27.20,2.50
-MBCRU5598,14-Jun-10,21:00,KL0090,Kerivoula intermedia,F,29.10,2.70
-MBCRU5623,6-May-10,7:00,KL0377,Kerivoula intermedia,F,30.00,3.25
-MBCRU7128,27-May-10,7:00,KL0752,Kerivoula intermedia,F,31.00,3.25
-MBCRU7147,28-May-10,7:00,KL0776,Kerivoula intermedia,F,29.20,3.75
-MBCRU7252,5-May-10,21:00,KL0483,Kerivoula intermedia,F,29.40,3.75
-MBCRU2173,14-Jun-10,21:00,KL0094,Kerivoula intermedia,F,29.70,3.75
-MBCRU5433,2-May-10,7:00,KL0303,Kerivoula intermedia,F,30.00,3.75
-MBCRU5433,2-May-10,7:00,KL0303,Kerivoula intermedia,F,30.00,3.75
-MBCRU5407,14-Jun-10,21:00,KL0082,Kerivoula intermedia,F,30.00,3.75
-MBCRU5298,4-May-10,21:00,KL0455,Kerivoula intermedia,F,29.90,4.00
-MBCRU7447,9-May-10,21:00,KL0497,Kerivoula intermedia,M,27.10,2.50
-MBCRU7413,6-May-10,21:00,KL0367,Kerivoula intermedia,M,27.20,2.50
-MBCRU7448,10-May-10,21:00,KL0427,Kerivoula intermedia,M,27.80,2.75
-MBCRU7419,9-May-10,21:00,KL0409,Kerivoula intermedia,M,29.40,2.75
-MBCRU2155,29-May-10,21:00,KL0786,Kerivoula intermedia,M,28.30,3.00
-MBCRU7108,23-May-10,21:00,KL0641,Kerivoula intermedia,M,28.50,3.00
-MBCRU7140,27-May-10,7:00,KL0742,Kerivoula intermedia,M,28.70,3.00
-MBCRU5513,31-May-10,7:00,KL0767,Kerivoula intermedia,M,22.70,3.25
-MBCRU7139,27-May-10,7:00,KL0754,Kerivoula intermedia,M,27.00,3.25
-MBCRU5540,24-May-10,21:00,KL0644,Kerivoula intermedia,M,27.40,3.25
-MBCRU5172,27-May-10,21:00,KL0746,Kerivoula intermedia,M,27.40,3.25
-MBCRU2466,10-Jun-10,21:00,KL0152,Kerivoula intermedia,M,28.30,3.25
-MBCRU7118,25-May-10,21:00,KL0720,Kerivoula intermedia,M,28.50,3.25
-MBCRU7144,28-May-10,21:00,KL0760,Kerivoula intermedia,M,28.50,3.25
-MBCRU5347,28-May-10,21:00,KL0770,Kerivoula intermedia,M,28.50,3.25
-MBCRU7108,24-May-10,21:00,KL0658,Kerivoula intermedia,M,28.60,3.25
-MBCRU7119,25-May-10,21:00,KL0732,Kerivoula intermedia,M,28.70,3.25
-MBCRU2152,28-May-10,7:00,KL0758,Kerivoula intermedia,M,28.80,3.25
-MBCRU5589,5-Jun-10,21:00,KL0684,Kerivoula intermedia,M,28.80,3.25
-MBCRU5568,27-May-10,21:00,KL0740,Kerivoula intermedia,M,29.00,3.25
-MBCRU2162,3-Jun-10,21:00,KL0727,Kerivoula intermedia,M,29.10,3.25
-MBCRU7143,28-May-10,21:00,KL0780,Kerivoula intermedia,M,29.20,3.25
-MBCRU2166,6-Jun-10,21:00,KL0134,Kerivoula intermedia,M,29.30,3.25
-MBCRU7120,25-May-10,21:00,KL0730,Kerivoula intermedia,M,29.40,3.25
-MBCRU5511,28-May-10,21:00,KL0760,Kerivoula intermedia,M,29.30,3.40
-MBCRU5329,24-May-10,21:00,KL0649,Kerivoula intermedia,M,27.30,3.50
-MBCRU7142,27-May-10,7:00,KL0752,Kerivoula intermedia,M,27.60,3.50
-MBCRU2154,29-May-10,21:00,KL0800,Kerivoula intermedia,M,27.70,3.50
-MBCRU7116,25-May-10,21:00,KL0720,Kerivoula intermedia,M,28.00,3.50
-MBCRU7146,28-May-10,21:00,KL0772,Kerivoula intermedia,M,28.30,3.50
-MBCRU2156,29-May-10,21:00,KL0790,Kerivoula intermedia,M,28.40,3.50
-MBCRU7137,27-May-10,7:00,KL0756,Kerivoula intermedia,M,28.50,3.50
-MBCRU7141,28-May-10,21:00,KL0778,Kerivoula intermedia,M,28.50,3.50
-MBCRU5571,29-May-10,7:00,KL0792,Kerivoula intermedia,M,28.50,3.50
-MBCRU7148,28-May-10,7:00,KL0774,Kerivoula intermedia,M,28.60,3.50
-MBCRU2151,28-May-10,7:00,KL0770,Kerivoula intermedia,M,28.60,3.50
-MBCRU5577,28-May-10,21:00,KL0774,Kerivoula intermedia,M,28.90,3.50
-MBCRU7120,3-Jun-10,21:00,KL0733,Kerivoula intermedia,M,28.90,3.50
-MBCRU7121,27-May-10,21:00,KL0756,Kerivoula intermedia,M,29.30,3.50
-MBCRU5320,6-Jun-10,21:00,KL0683,Kerivoula intermedia,M,29.60,3.50
-MBCRU5529,28-May-10,21:00,KL0776,Kerivoula intermedia,M,29.90,3.50
-MBCRU7125,27-May-10,21:00,KL0742,Kerivoula intermedia,M,27.90,3.75
-MBCRU7112,24-May-10,21:00,KL0643,Kerivoula intermedia,M,28.50,3.75
-MBCRU7129,27-May-10,21:00,KL0748,Kerivoula intermedia,M,28.50,3.75
-MBCRU7130,27-May-10,21:00,KL0740,Kerivoula intermedia,M,28.50,3.75
-MBCRU7131,27-May-10,21:00,KL0756,Kerivoula intermedia,M,28.50,3.75
-MBCRU5575,31-May-10,21:00,KL0781,Kerivoula intermedia,M,28.60,3.75
-MBCRU7134,27-May-10,21:00,KL0750,Kerivoula intermedia,M,28.70,3.75
-MBCRU7114,24-May-10,21:00,KL0665,Kerivoula intermedia,M,28.90,3.75
-MBCRU7122,27-May-10,21:00,KL0742,Kerivoula intermedia,M,28.90,3.75
-MBCRU7145,28-May-10,21:00,KL0778,Kerivoula intermedia,M,28.50,4.00
-MBCRU7113,24-May-10,21:00,KL0708,Kerivoula intermedia,M,28.70,4.00
-MBCRU7133,27-May-10,21:00,KL0742,Kerivoula intermedia,M,29.00,4.25
-MBCRU7135,27-May-10,21:00,KL0756,Kerivoula intermedia,M,29.10,4.75
-MBCRUC2206,27-May-10,21:00,KL0756,Kerivoula papillosa,F,38.90,8.00
-MBCRUC2160,2-May-10,7:00,KL0301,Kerivoula papillosa,F,40.10,8.75
-MBCRUC2160,2-May-10,7:00,KL0301,Kerivoula papillosa,F,40.10,8.75
-MBCRUC2198,24-May-10,7:00,KL0643,Kerivoula papillosa,F,42.70,9.00
-MBCRUC0784,4-May-10,7:00,KL0349,Kerivoula papillosa,F,43.30,9.25
-MBCRUC2379,2-May-10,21:00,KL0305,Kerivoula papillosa,F,44.10,9.25
-MBCRUC2379,2-May-10,21:00,KL0305,Kerivoula papillosa,F,44.10,9.25
-MBCRUC2031,6-May-10,21:00,KL0377,Kerivoula papillosa,F,41.60,10.00
-MBCRUC0709,8-May-10,21:00,KL0389,Kerivoula papillosa,F,42.60,10.25
-MBCRUC2205,27-May-10,21:00,KL0750,Kerivoula papillosa,F,43.10,10.25
-MBCRUC0614,5-Jun-10,21:00,KL0685,Kerivoula papillosa,F,43.70,10.25
-MBCRUC1204,12-May-10,7:00,KL0028,Kerivoula papillosa,F,41.60,10.50
-MBCRUC2218,29-May-10,7:00,KL0806,Kerivoula papillosa,F,41.80,11.00
-MBCRUC0894,30-May-10,21:00,KL0789,Kerivoula papillosa,F,41.80,11.00
-MBCRUC0614,24-May-10,7:00,KL0642,Kerivoula papillosa,F,43.60,11.00
-MBCRUC0614,24-May-10,21:00,KL0709,Kerivoula papillosa,F,43.90,11.75
-MBCRUC0614,23-May-10,21:00,KL0640,Kerivoula papillosa,F,43.70,12.00
-MBCRUC2213,28-May-10,7:00,KL0778,Kerivoula papillosa,M,37.60,6.75
-MBCRUC2159,2-May-10,7:00,KL0305,Kerivoula papillosa,M,41.10,9.00
-MBCRUC2159,2-May-10,7:00,KL0305,Kerivoula papillosa,M,41.10,9.00
-MBCRUC0829,14-Jun-10,21:00,KL0088,Kerivoula papillosa,M,42.50,9.00
-MBCRUC0894,28-May-10,21:00,KL0764,Kerivoula papillosa,M,38.80,9.50
-MBCRUC2149,24-May-10,21:00,KL0649,Kerivoula papillosa,M,40.90,9.50
-MBCRUC2225,4-Jun-10,21:00,KL0667,Kerivoula papillosa,M,41.10,9.50
-MBCRUC2197,24-May-10,7:00,KL0711,Kerivoula papillosa,M,42.40,9.50
-MBCRUC2393,10-Jun-10,21:00,KL0160,Kerivoula papillosa,M,41.40,9.75
-MBCRUC0916,31-May-10,21:00,KL0771,Kerivoula papillosa,M,41.50,9.75
-MBCRUB0290,5-May-10,21:00,KL0359,Kerivoula papillosa,M,41.50,10.00
-MBCRUC0916,27-May-10,21:00,KL0752,Kerivoula papillosa,M,41.20,10.25
-MB005,28-May-10,7:00,KL0766,Kerivoula pellucida,F,31.10,4.00
-MB006,6-May-10,7:00,KL0449,Kerivoula pellucida,F,30.60,4.25
-MB007,3-Jun-10,21:00,KL0733,Kerivoula pellucida,F,33.30,4.50
-MB008,29-May-10,21:00,KL0806,Kerivoula pellucida,F,30.40,4.75
-MB009,5-May-10,7:00,KL0473,Kerivoula pellucida,F,31.40,4.75
-MB0010,5-May-10,7:00,KL0473,Kerivoula pellucida,F,31.50,4.75
-MB0011,6-Jun-10,21:00,KL0679,Kerivoula pellucida,F,32.20,4.75
-MB0012,11-May-10,21:00,KL0441*,Kerivoula pellucida,F,30.40,5.00
-MB0013,30-May-10,21:00,KL0802,Kerivoula pellucida,F,31.40,5.00
-MB0014,23-May-10,7:00,KL0638,Kerivoula pellucida,F,31.60,5.00
-MB0015,14-May-10,21:00,KL0634,Kerivoula pellucida,F,32.00,5.00
-MB0016,27-May-10,21:00,KL0736,Kerivoula pellucida,F,32.20,5.00
-MB0017,14-May-10,21:00,KL0633,Kerivoula pellucida,F,31.10,5.25
-MB0018,10-May-10,21:00,KL0493,Kerivoula pellucida,F,31.70,5.25
-MB0019,23-May-10,21:00,KL0647,Kerivoula pellucida,F,31.60,5.50
-MB0020,3-May-10,21:00,KL0319,Kerivoula pellucida,M,30.10,4.25
-MB0021,25-May-10,7:00,KL0730,Kerivoula pellucida,M,31.10,4.25
-MB0022,5-May-10,7:00,KL0473,Kerivoula pellucida,M,29.70,4.50
-MBCRUC2212,28-May-10,21:00,KL0778,Megaderma spasma,M,64.00,37.00
-MBCRU7441,4-May-10,21:00,KL0345,Murina cyclotis,M,34.30,7.00
-MBCRUC2192,24-May-10,21:00,KL0648,Murina cyclotis,M,35.60,7.75
-MBCRUC2248,28-May-10,21:00,KL0764,Murina cyclotis,M,35.60,8.25
-MBCRUC2172,9-May-10,21:00,KL0497,Murina cyclotis,M,36.60,8.25
-MBCRUC2182,12-May-10,21:00,KL0026,Murina cyclotis,M,35.90,9.00
-MBCRU7150,11-May-10,7:00,KL0431,Murina suilla,F,29.60,3.50
-MBCRU7126,27-May-10,21:00,KL0742,Murina suilla,F,30.00,3.75
-MBCRU5626,9-May-10,21:00,KL0409,Murina suilla,F,30.80,4.00
-MBCRU7106,8-Jun-10,21:00,KL0124,Murina suilla,F,31.40,4.00
-MBCRU5545,5-Jun-10,21:00,KL0684,Murina suilla,F,21.60,4.25
-MBCRU5610,3-May-10,21:00,KL0329,Murina suilla,F,29.80,4.25
-MBCRU5365,9-May-10,21:00,KL0409,Murina suilla,F,30.00,4.25
-MBCRU7123,27-May-10,21:00,KL0746,Murina suilla,F,30.50,4.50
-MBCRU2163,4-Jun-10,21:00,KL0704,Murina suilla,F,31.00,4.50
-MBCRU7106,14-May-10,21:00,KL0634,Murina suilla,F,31.60,4.75
-MBCRU5111,2-May-10,7:00,KL0309,Murina suilla,F,29.80,5.00
-MBCRU5111,2-May-10,7:00,KL0309,Murina suilla,F,29.80,5.00
-MBCRU7103,12-May-10,21:00,KL0014,Murina suilla,F,30.30,5.00
-MBCRU5645,24-May-10,21:00,KL0643,Murina suilla,F,31.70,5.00
-MBCRU2167,6-Jun-10,21:00,KL0132,Murina suilla,M,28.50,3.50
-MBCRU7439,3-May-10,21:00,KL0331,Murina suilla,M,27.60,3.75
-MBCRU7445,8-May-10,21:00,KL0505,Murina suilla,M,28.50,4.00
-MBCRU7124,27-May-10,21:00,KL0738,Murina suilla,M,29.00,4.00
-MBCRU7109,23-May-10,21:00,KL0637,Murina suilla,M,29.60,4.00
-MBCRU7438,3-May-10,21:00,KL0311,Murina suilla,M,29.20,4.25
-MBCRU7446,9-May-10,21:00,KL0445,Myotis ater,F,34.70,5.75
-MBCRU7101,11-May-10,21:00,KL0437,Myotis ater,M,36.10,5.00
-MBCRU7107,14-May-10,7:00,KL0042,Myotis ridleyi,F,29.00,5.75
-MBCRUC2187,14-May-10,21:00,KL0050,Nycteris tragata,F,49.30,18.00
-MBCRU5535,23-May-10,21:00,KL0654,Phoniscus atrox,F,33.60,5.25
-MBCRU2442,25-May-10,21:00,KL0732,Phoniscus atrox,M,32.10,4.50
-MBCRU7443,6-May-10,21:00,KL0385,Rhinolophus lepidus,F,40.40,6.00
-MBCRU7444,6-May-10,21:00,KL0379,Rhinolophus lepidus,F,40.60,6.00
-MBCRU2169,10-Jun-10,21:00,KL0150,Rhinolophus lepidus,F,38.30,6.50
-MBCRU5667,12-May-10,21:00,KL0032,Rhinolophus lepidus,F,40.60,6.50
-MBCRU7437,3-May-10,21:00,KL0329,Rhinolophus lepidus,F,40.00,6.75
-MBCRU7262,10-May-10,21:00,KL0423,Rhinolophus lepidus,F,40.00,6.75
-MBCRU7149,11-May-10,7:00,KL0441*,Rhinolophus lepidus,F,39.90,7.00
-MBCRU7117,25-May-10,21:00,KL0728,Rhinolophus lepidus,F,40.00,7.00
-MBCRU7450,11-May-10,21:00,KL0010,Rhinolophus lepidus,F,41.50,7.50
-MBCRUC0876,31-May-10,21:00,KL0767,Rhinolophus lepidus,F,41.00,7.75
-MBCRU7449,10-May-10,7:00,KL0429,Rhinolophus lepidus,M,41.50,7.00
-MBCRUC2234,14-Jun-10,7:00,KL0170,Rhinolophus stheno,F,45.30,8.75
-MBCRUC2233,14-Jun-10,21:00,KL0082,Rhinolophus stheno,F,46.00,8.75
-MBCRUC2184,12-May-10,7:00,KL0026,Rhinolophus stheno,F,46.00,9.00
-MBCRUA7241,11-May-10,7:00,KL0004,Rhinolophus stheno,F,43.10,9.50
-MBCRUC2175,10-May-10,7:00,KL0487,Rhinolophus stheno,F,45.00,9.50
-MBCRUC1298,14-Jun-10,21:00,KL0090,Rhinolophus stheno,F,45.60,9.50
-MBCRUC2168,8-May-10,7:00,KL0395,Rhinolophus stheno,F,46.10,9.50
-MBCRUC2185,12-May-10,7:00,KL0030,Rhinolophus stheno,F,47.70,9.50
-MBCRUC2065,6-Jun-10,21:00,KL0130,Rhinolophus stheno,F,46.50,9.75
-MBCRU2207,27-May-10,7:00,KL0734,Rhinolophus stheno,F,45.30,10.00
-MBCRUC2171,8-May-10,7:00,KL0397,Rhinolophus stheno,F,45.90,10.25
-MBCRUC2177,11-May-10,21:00,KL0002,Rhinolophus stheno,F,46.30,11.25
-MBCRUC2193,24-May-10,21:00,KL0648,Rhinolophus stheno,M,45.90,8.25
-MBCRUC2170,8-May-10,7:00,KL0397,Rhinolophus stheno,M,45.80,9.50
-MBCRUC2220,30-May-10,7:00,KL0805,Rhinolophus stheno,M,46.00,9.50
-MBCRUC2180,11-May-10,7:00,KL0002,Rhinolophus stheno,M,45.30,10.25
-MBCRUC2169,8-May-10,7:00,KL0395,Rhinolophus trifoliatus,F,49.80,13.50
-MBCRC2135,31-May-10,21:00,KL0777,Rhinolophus trifoliatus,F,53.10,13.75
-MBCRUC2216,29-May-10,7:00,KL0806,Rhinolophus trifoliatus,F,51.50,14.00
-MBCRUC2222,31-May-10,7:00,KL0785,Rhinolophus trifoliatus,F,48.50,14.50
-MBCRUC2079,14-Jun-10,21:00,KL0170,Rhinolophus trifoliatus,F,52.60,14.50
-MBCRUC2134,28-May-10,21:00,KL0764,Rhinolophus trifoliatus,F,53.10,14.50
-MBCRUC1326,2-May-10,7:00,KL0457,Rhinolophus trifoliatus,F,50.90,15.25
-MBCRUC1326,2-May-10,7:00,KL0457,Rhinolophus trifoliatus,F,50.90,15.25
-MBCRUC0862,23-May-10,21:00,KL0653,Rhinolophus trifoliatus,F,51.50,15.25
-MBCRUC0864,4-Jun-10,7:00,KL0698,Rhinolophus trifoliatus,F,52.70,15.50
-MBCRUC0728,10-May-10,21:00,KL0493,Rhinolophus trifoliatus,F,52.00,16.50
-MBCRUC1940,8-Jun-10,7:00,KL0122,Rhinolophus trifoliatus,F,52.70,16.75
-MBCRUC0872,25-May-10,21:00,KL0712,Rhinolophus trifoliatus,F,50.20,17.25
-MBCRUC0864,24-May-10,21:00,KL0650,Rhinolophus trifoliatus,F,53.00,19.00
-MBCRUA7139,14-Jun-10,21:00,KL-X,Rhinolophus trifoliatus,M,47.30,11.00
-MBCRUC2070,10-Jun-10,21:00,KL0150,Rhinolophus trifoliatus,M,46.50,11.50
-MBCRUC2249,25-May-10,21:00,KL0724,Rhinolophus trifoliatus,M,48.30,12.25
-MBCRUC2136,28-May-10,21:00,KL0764,Rhinolophus trifoliatus,M,47.70,13.00
-MBCRUC0963,10-Jun-10,21:00,KL0160,Rhinolophus trifoliatus,M,51.50,13.00
-MBCRUC2250,25-May-10,21:00,KL0712,Rhinolophus trifoliatus,M,52.40,13.00
-MBCRUC0631,4-Jun-10,7:00,KL0669,Rhinolophus trifoliatus,M,49.20,13.50
-MBCRUC2163,3-May-10,21:00,KL0333,Rhinolophus trifoliatus,M,51.00,13.75
-MBCRUC2221,31-May-10,7:00,KL0785,Rhinolophus trifoliatus,M,49.50,14.25
-MBCRUC0883,3-Jun-10,21:00,KL0735,Rhinolophus trifoliatus,M,52.40,14.25
-MBCRUC2164,3-May-10,7:00,KL0321,Rhinolophus trifoliatus,M,50.30,14.50
-MBCRUC2186,14-May-10,21:00,KL0635,Rhinolophus trifoliatus,M,53.10,15.00
-MBCRUC0896,30-May-10,7:00,KL0802,Rhinolophus trifoliatus,M,47.70,15.50
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+MB0001,5-May-10,21:00,KL0359,Balionycteris maculata,F,42.9,15
+MB0002,8-May-10,7:00,KL0509,Cynopterus brachyotis,F,57.8,34
+MB0003,8-May-10,21:00,KL0397,Cynopterus brachyotis,F,62.9,34
+MB0004,8-May-10,21:00,KL0509,Cynopterus brachyotis,M,61.4,27
+MBCRU7115,24-May-10,7:00,KL0645,Emballonura monticola,F,43.9,5.25
+MBCRU2168,10-Jun-10,21:00,KL0162,Emballonura monticola,F,44.6,9.75
+MBCRUC2173,10-May-10,21:00,KL0491,Hipposideros bicolor 142 kHz,F,42.8,8
+MBCRUC2230,6-Jun-10,21:00,KL0135,Hipposideros bicolor 142 kHz,F,43,8
+MBCRUC2044,8-May-10,21:00,KL0507,Hipposideros bicolor 142 kHz,F,44.4,8
+MBCRUC2165,4-May-10,21:00,KL0343,Hipposideros bicolor 142 kHz,F,43.1,8.25
+MBCRUC2174,10-May-10,21:00,KL0423,Hipposideros bicolor 142 kHz,F,43.3,8.25
+MBCRUC1997,2-May-10,21:00,KL0301,Hipposideros bicolor 142 kHz,F,44.6,10.25
+MBCRUC1997,2-May-10,21:00,KL0301,Hipposideros bicolor 142 kHz,F,44.6,10.25
+MBCRUC2178,11-May-10,21:00,KL0435,Hipposideros bicolor 142 kHz,M,42.5,9
+MBCRUC0915,31-May-10,7:00,KL0783,Hipposideros bicolor 142kHz,F,44.3,9.25
+MBCRUC2189,24-May-10,21:00,KL0648,Hipposideros bicolor 142kHz,F,44.6,10.25
+MBCRUC2196,24-May-10,21:00,KL0701,Hipposideros bicolor 142kHz,M,42.9,9
+MBCRUC2202,24-May-10,7:00,KL0649,Hipposideros cervinus,F,51.2,9.25
+MBCRUC2208,27-May-10,7:00,KL0734,Hipposideros cervinus,F,49.5,9.5
+MBCRUC2227,4-Jun-10,7:00,KL0697,Hipposideros cervinus,F,48.3,10
+MBCRUC0634,4-Jun-10,21:00,KL0668,Hipposideros cervinus,F,49.2,10
+MBCRUC2231,8-Jun-10,21:00,KL0144,Hipposideros cervinus,F,50.4,10
+MBCRUC2201,24-May-10,7:00,KL0649,Hipposideros cervinus,F,51,10.25
+MBCRUC1978,10-May-10,21:00,KL0423,Hipposideros cervinus,F,50.9,10.5
+MBCRUC2211,28-May-10,21:00,KL0762,Hipposideros cervinus,F,51.4,10.5
+MBCRUC2229,4-Jun-10,7:00,KL0697,Hipposideros cervinus,F,49.9,10.75
+MBCRUC2195,24-May-10,21:00,KL0648,Hipposideros cervinus,F,49.8,11
+MBCRUC0865,24-May-10,21:00,KL0642,Hipposideros cervinus,F,50.4,11
+MBCRUC0490,4-May-10,21:00,KL0343,Hipposideros cervinus,F,50.5,11
+MBCRUC2191,24-May-10,21:00,KL0648,Hipposideros cervinus,F,49.5,11.25
+MBCRUC0802,3-May-10,21:00,KL0315,Hipposideros cervinus,F,49.9,11.25
+MBCRUC2232,10-Jun-10,21:00,KL0152,Hipposideros cervinus,F,50.2,11.5
+MBCRUC2204,27-May-10,21:00,KL0742,Hipposideros cervinus,F,50.6,12.5
+MBCRUC06XX,24-May-10,21:00,KL0644,Hipposideros cervinus,F,49.3,12.75
+MBCRUC1399,9-May-10,21:00,KL0415,Hipposideros cervinus,F,51.6,14
+MBCRUC2389,24-May-10,21:00,KL0642,Hipposideros cervinus,M,48.9,10.5
+MBCRUC2162,2-May-10,7:00,KL0459,Hipposideros cervinus,M,49.3,10.75
+MBCRUC2162,2-May-10,7:00,KL0459,Hipposideros cervinus,M,49.3,10.75
+MBCRU2219,30-May-10,21:00,KL0807,Hipposideros cervinus,M,48.5,14.25
+THK3376,12-May-10,21:00,KL0016,Hipposideros diadema,F,82.9,41
+THK3373,11-May-10,21:00,KL0010,Hipposideros diadema,F,82.1,44
+THK3377,12-May-10,7:00,KL0014,Hipposideros diadema,F,82.6,45
+THK3375,12-May-10,21:00,KL0020,Hipposideros diadema,F,82.2,47
+THK3374,11-May-10,21:00,KL0008,Hipposideros diadema,M,82.6,46
+THK3381,10-Jun-10,21:00,KL0168,Hipposideros diadema,M,81.8,47
+THK3380,28-May-10,21:00,KL0760,Hipposideros diadema,M,83.5,48
+THK3345,28-May-10,21:00,KL0762,Hipposideros diadema,M,84.9,48
+THK3379,28-May-10,21:00,KL0762,Hipposideros diadema,M,87.3,54
+THK3338,24-May-10,21:00,KL0709,Hipposideros diadema,M,81.1,56
+THK3378,28-May-10,21:00,KL0776,Hipposideros diadema,M,83.5,57
+THK3342,28-May-10,21:00,KL0770,Hipposideros diadema,M,87.5,58
+THK3341,28-May-10,21:00,KL0770,Hipposideros diadema,M,85,61
+THK3382,14-Jun-10,21:00,KL0088,Hipposideros diadmea,M,87.2,52
+MBCRUC2194,24-May-10,21:00,KL0648,Hipposideros larvatus,F,57.7,18.75
+MBCRUC2209,28-May-10,21:00,KL0770,Hipposideros larvatus,F,57.4,21
+MBCRUC2183,12-May-10,21:00,KL0026,Hipposideros ridleyi,F,48.9,8.75
+MBCRUC2161,2-May-10,7:00,KL0459,Hipposideros ridleyi,F,49.7,9.5
+MBCRUC2161,2-May-10,7:00,KL0459,Hipposideros ridleyi,F,49.7,9.5
+MBCRUC2199,24-May-10,7:00,KL0645,Hipposideros ridleyi,F,50.2,10
+MBCRUC2181,12-May-10,21:00,KL0014,Hipposideros ridleyi,F,47.4,10.25
+MBCRUC2179,11-May-10,7:00,KL0002,Hipposideros ridleyi,F,48.7,10.5
+MBCRUC2217,29-May-10,7:00,KL0790,Hipposideros ridleyi,F,49.1,11
+MBCRC2144,29-May-10,21:00,KL0786,Hipposideros ridleyi,M,47.7,10
+MBCRUC1267,10-Jun-10,7:00,KL0164,Hipposideros ridleyi,M,48.5,10
+MBCRU2158,30-May-10,21:00,KL0789,Kerivoua intermedia,M,27.8,3.5
+MBCRU2159,30-May-10,21:00,KL0805,Kerivoua intermedia,M,28.6,3.5
+MBCRU2153,30-May-10,21:00,KL0803,Kerivoua intermedia,M,28.7,3.5
+MBCRU2157,30-May-10,21:00,KL0789,Kerivoua intermedia,M,29,3.5
+MBCRU5518,30-May-10,7:00,KL0787,Kerivoua intermedia,M,29.6,3.5
+MBCRU5594,6-Jun-10,21:00,KL0686,Kerivoula intermedia,F,27.2,2.5
+MBCRU5598,14-Jun-10,21:00,KL0090,Kerivoula intermedia,F,29.1,2.7
+MBCRU5623,6-May-10,7:00,KL0377,Kerivoula intermedia,F,30,3.25
+MBCRU7128,27-May-10,7:00,KL0752,Kerivoula intermedia,F,31,3.25
+MBCRU7147,28-May-10,7:00,KL0776,Kerivoula intermedia,F,29.2,3.75
+MBCRU7252,5-May-10,21:00,KL0483,Kerivoula intermedia,F,29.4,3.75
+MBCRU2173,14-Jun-10,21:00,KL0094,Kerivoula intermedia,F,29.7,3.75
+MBCRU5433,2-May-10,7:00,KL0303,Kerivoula intermedia,F,30,3.75
+MBCRU5433,2-May-10,7:00,KL0303,Kerivoula intermedia,F,30,3.75
+MBCRU5407,14-Jun-10,21:00,KL0082,Kerivoula intermedia,F,30,3.75
+MBCRU5298,4-May-10,21:00,KL0455,Kerivoula intermedia,F,29.9,4
+MBCRU7447,9-May-10,21:00,KL0497,Kerivoula intermedia,M,27.1,2.5
+MBCRU7413,6-May-10,21:00,KL0367,Kerivoula intermedia,M,27.2,2.5
+MBCRU7448,10-May-10,21:00,KL0427,Kerivoula intermedia,M,27.8,2.75
+MBCRU7419,9-May-10,21:00,KL0409,Kerivoula intermedia,M,29.4,2.75
+MBCRU2155,29-May-10,21:00,KL0786,Kerivoula intermedia,M,28.3,3
+MBCRU7108,23-May-10,21:00,KL0641,Kerivoula intermedia,M,28.5,3
+MBCRU7140,27-May-10,7:00,KL0742,Kerivoula intermedia,M,28.7,3
+MBCRU5513,31-May-10,7:00,KL0767,Kerivoula intermedia,M,22.7,3.25
+MBCRU7139,27-May-10,7:00,KL0754,Kerivoula intermedia,M,27,3.25
+MBCRU5540,24-May-10,21:00,KL0644,Kerivoula intermedia,M,27.4,3.25
+MBCRU5172,27-May-10,21:00,KL0746,Kerivoula intermedia,M,27.4,3.25
+MBCRU2466,10-Jun-10,21:00,KL0152,Kerivoula intermedia,M,28.3,3.25
+MBCRU7118,25-May-10,21:00,KL0720,Kerivoula intermedia,M,28.5,3.25
+MBCRU7144,28-May-10,21:00,KL0760,Kerivoula intermedia,M,28.5,3.25
+MBCRU5347,28-May-10,21:00,KL0770,Kerivoula intermedia,M,28.5,3.25
+MBCRU7108,24-May-10,21:00,KL0658,Kerivoula intermedia,M,28.6,3.25
+MBCRU7119,25-May-10,21:00,KL0732,Kerivoula intermedia,M,28.7,3.25
+MBCRU2152,28-May-10,7:00,KL0758,Kerivoula intermedia,M,28.8,3.25
+MBCRU5589,5-Jun-10,21:00,KL0684,Kerivoula intermedia,M,28.8,3.25
+MBCRU5568,27-May-10,21:00,KL0740,Kerivoula intermedia,M,29,3.25
+MBCRU2162,3-Jun-10,21:00,KL0727,Kerivoula intermedia,M,29.1,3.25
+MBCRU7143,28-May-10,21:00,KL0780,Kerivoula intermedia,M,29.2,3.25
+MBCRU2166,6-Jun-10,21:00,KL0134,Kerivoula intermedia,M,29.3,3.25
+MBCRU7120,25-May-10,21:00,KL0730,Kerivoula intermedia,M,29.4,3.25
+MBCRU5511,28-May-10,21:00,KL0760,Kerivoula intermedia,M,29.3,3.4
+MBCRU5329,24-May-10,21:00,KL0649,Kerivoula intermedia,M,27.3,3.5
+MBCRU7142,27-May-10,7:00,KL0752,Kerivoula intermedia,M,27.6,3.5
+MBCRU2154,29-May-10,21:00,KL0800,Kerivoula intermedia,M,27.7,3.5
+MBCRU7116,25-May-10,21:00,KL0720,Kerivoula intermedia,M,28,3.5
+MBCRU7146,28-May-10,21:00,KL0772,Kerivoula intermedia,M,28.3,3.5
+MBCRU2156,29-May-10,21:00,KL0790,Kerivoula intermedia,M,28.4,3.5
+MBCRU7137,27-May-10,7:00,KL0756,Kerivoula intermedia,M,28.5,3.5
+MBCRU7141,28-May-10,21:00,KL0778,Kerivoula intermedia,M,28.5,3.5
+MBCRU5571,29-May-10,7:00,KL0792,Kerivoula intermedia,M,28.5,3.5
+MBCRU7148,28-May-10,7:00,KL0774,Kerivoula intermedia,M,28.6,3.5
+MBCRU2151,28-May-10,7:00,KL0770,Kerivoula intermedia,M,28.6,3.5
+MBCRU5577,28-May-10,21:00,KL0774,Kerivoula intermedia,M,28.9,3.5
+MBCRU7120,3-Jun-10,21:00,KL0733,Kerivoula intermedia,M,28.9,3.5
+MBCRU7121,27-May-10,21:00,KL0756,Kerivoula intermedia,M,29.3,3.5
+MBCRU5320,6-Jun-10,21:00,KL0683,Kerivoula intermedia,M,29.6,3.5
+MBCRU5529,28-May-10,21:00,KL0776,Kerivoula intermedia,M,29.9,3.5
+MBCRU7125,27-May-10,21:00,KL0742,Kerivoula intermedia,M,27.9,3.75
+MBCRU7112,24-May-10,21:00,KL0643,Kerivoula intermedia,M,28.5,3.75
+MBCRU7129,27-May-10,21:00,KL0748,Kerivoula intermedia,M,28.5,3.75
+MBCRU7130,27-May-10,21:00,KL0740,Kerivoula intermedia,M,28.5,3.75
+MBCRU7131,27-May-10,21:00,KL0756,Kerivoula intermedia,M,28.5,3.75
+MBCRU5575,31-May-10,21:00,KL0781,Kerivoula intermedia,M,28.6,3.75
+MBCRU7134,27-May-10,21:00,KL0750,Kerivoula intermedia,M,28.7,3.75
+MBCRU7114,24-May-10,21:00,KL0665,Kerivoula intermedia,M,28.9,3.75
+MBCRU7122,27-May-10,21:00,KL0742,Kerivoula intermedia,M,28.9,3.75
+MBCRU7145,28-May-10,21:00,KL0778,Kerivoula intermedia,M,28.5,4
+MBCRU7113,24-May-10,21:00,KL0708,Kerivoula intermedia,M,28.7,4
+MBCRU7133,27-May-10,21:00,KL0742,Kerivoula intermedia,M,29,4.25
+MBCRU7135,27-May-10,21:00,KL0756,Kerivoula intermedia,M,29.1,4.75
+MBCRUC2206,27-May-10,21:00,KL0756,Kerivoula papillosa,F,38.9,8
+MBCRUC2160,2-May-10,7:00,KL0301,Kerivoula papillosa,F,40.1,8.75
+MBCRUC2160,2-May-10,7:00,KL0301,Kerivoula papillosa,F,40.1,8.75
+MBCRUC2198,24-May-10,7:00,KL0643,Kerivoula papillosa,F,42.7,9
+MBCRUC0784,4-May-10,7:00,KL0349,Kerivoula papillosa,F,43.3,9.25
+MBCRUC2379,2-May-10,21:00,KL0305,Kerivoula papillosa,F,44.1,9.25
+MBCRUC2379,2-May-10,21:00,KL0305,Kerivoula papillosa,F,44.1,9.25
+MBCRUC2031,6-May-10,21:00,KL0377,Kerivoula papillosa,F,41.6,10
+MBCRUC0709,8-May-10,21:00,KL0389,Kerivoula papillosa,F,42.6,10.25
+MBCRUC2205,27-May-10,21:00,KL0750,Kerivoula papillosa,F,43.1,10.25
+MBCRUC0614,5-Jun-10,21:00,KL0685,Kerivoula papillosa,F,43.7,10.25
+MBCRUC1204,12-May-10,7:00,KL0028,Kerivoula papillosa,F,41.6,10.5
+MBCRUC2218,29-May-10,7:00,KL0806,Kerivoula papillosa,F,41.8,11
+MBCRUC0894,30-May-10,21:00,KL0789,Kerivoula papillosa,F,41.8,11
+MBCRUC0614,24-May-10,7:00,KL0642,Kerivoula papillosa,F,43.6,11
+MBCRUC0614,24-May-10,21:00,KL0709,Kerivoula papillosa,F,43.9,11.75
+MBCRUC0614,23-May-10,21:00,KL0640,Kerivoula papillosa,F,43.7,12
+MBCRUC2213,28-May-10,7:00,KL0778,Kerivoula papillosa,M,37.6,6.75
+MBCRUC2159,2-May-10,7:00,KL0305,Kerivoula papillosa,M,41.1,9
+MBCRUC2159,2-May-10,7:00,KL0305,Kerivoula papillosa,M,41.1,9
+MBCRUC0829,14-Jun-10,21:00,KL0088,Kerivoula papillosa,M,42.5,9
+MBCRUC0894,28-May-10,21:00,KL0764,Kerivoula papillosa,M,38.8,9.5
+MBCRUC2149,24-May-10,21:00,KL0649,Kerivoula papillosa,M,40.9,9.5
+MBCRUC2225,4-Jun-10,21:00,KL0667,Kerivoula papillosa,M,41.1,9.5
+MBCRUC2197,24-May-10,7:00,KL0711,Kerivoula papillosa,M,42.4,9.5
+MBCRUC2393,10-Jun-10,21:00,KL0160,Kerivoula papillosa,M,41.4,9.75
+MBCRUC0916,31-May-10,21:00,KL0771,Kerivoula papillosa,M,41.5,9.75
+MBCRUB0290,5-May-10,21:00,KL0359,Kerivoula papillosa,M,41.5,10
+MBCRUC0916,27-May-10,21:00,KL0752,Kerivoula papillosa,M,41.2,10.25
+MB005,28-May-10,7:00,KL0766,Kerivoula pellucida,F,31.1,4
+MB006,6-May-10,7:00,KL0449,Kerivoula pellucida,F,30.6,4.25
+MB007,3-Jun-10,21:00,KL0733,Kerivoula pellucida,F,33.3,4.5
+MB008,29-May-10,21:00,KL0806,Kerivoula pellucida,F,30.4,4.75
+MB009,5-May-10,7:00,KL0473,Kerivoula pellucida,F,31.4,4.75
+MB0010,5-May-10,7:00,KL0473,Kerivoula pellucida,F,31.5,4.75
+MB0011,6-Jun-10,21:00,KL0679,Kerivoula pellucida,F,32.2,4.75
+MB0012,11-May-10,21:00,KL0441*,Kerivoula pellucida,F,30.4,5
+MB0013,30-May-10,21:00,KL0802,Kerivoula pellucida,F,31.4,5
+MB0014,23-May-10,7:00,KL0638,Kerivoula pellucida,F,31.6,5
+MB0015,14-May-10,21:00,KL0634,Kerivoula pellucida,F,32,5
+MB0016,27-May-10,21:00,KL0736,Kerivoula pellucida,F,32.2,5
+MB0017,14-May-10,21:00,KL0633,Kerivoula pellucida,F,31.1,5.25
+MB0018,10-May-10,21:00,KL0493,Kerivoula pellucida,F,31.7,5.25
+MB0019,23-May-10,21:00,KL0647,Kerivoula pellucida,F,31.6,5.5
+MB0020,3-May-10,21:00,KL0319,Kerivoula pellucida,M,30.1,4.25
+MB0021,25-May-10,7:00,KL0730,Kerivoula pellucida,M,31.1,4.25
+MB0022,5-May-10,7:00,KL0473,Kerivoula pellucida,M,29.7,4.5
+MBCRUC2212,28-May-10,21:00,KL0778,Megaderma spasma,M,64,37
+MBCRU7441,4-May-10,21:00,KL0345,Murina cyclotis,M,34.3,7
+MBCRUC2192,24-May-10,21:00,KL0648,Murina cyclotis,M,35.6,7.75
+MBCRUC2248,28-May-10,21:00,KL0764,Murina cyclotis,M,35.6,8.25
+MBCRUC2172,9-May-10,21:00,KL0497,Murina cyclotis,M,36.6,8.25
+MBCRUC2182,12-May-10,21:00,KL0026,Murina cyclotis,M,35.9,9
+MBCRU7150,11-May-10,7:00,KL0431,Murina suilla,F,29.6,3.5
+MBCRU7126,27-May-10,21:00,KL0742,Murina suilla,F,30,3.75
+MBCRU5626,9-May-10,21:00,KL0409,Murina suilla,F,30.8,4
+MBCRU7106,8-Jun-10,21:00,KL0124,Murina suilla,F,31.4,4
+MBCRU5545,5-Jun-10,21:00,KL0684,Murina suilla,F,21.6,4.25
+MBCRU5610,3-May-10,21:00,KL0329,Murina suilla,F,29.8,4.25
+MBCRU5365,9-May-10,21:00,KL0409,Murina suilla,F,30,4.25
+MBCRU7123,27-May-10,21:00,KL0746,Murina suilla,F,30.5,4.5
+MBCRU2163,4-Jun-10,21:00,KL0704,Murina suilla,F,31,4.5
+MBCRU7106,14-May-10,21:00,KL0634,Murina suilla,F,31.6,4.75
+MBCRU5111,2-May-10,7:00,KL0309,Murina suilla,F,29.8,5
+MBCRU5111,2-May-10,7:00,KL0309,Murina suilla,F,29.8,5
+MBCRU7103,12-May-10,21:00,KL0014,Murina suilla,F,30.3,5
+MBCRU5645,24-May-10,21:00,KL0643,Murina suilla,F,31.7,5
+MBCRU2167,6-Jun-10,21:00,KL0132,Murina suilla,M,28.5,3.5
+MBCRU7439,3-May-10,21:00,KL0331,Murina suilla,M,27.6,3.75
+MBCRU7445,8-May-10,21:00,KL0505,Murina suilla,M,28.5,4
+MBCRU7124,27-May-10,21:00,KL0738,Murina suilla,M,29,4
+MBCRU7109,23-May-10,21:00,KL0637,Murina suilla,M,29.6,4
+MBCRU7438,3-May-10,21:00,KL0311,Murina suilla,M,29.2,4.25
+MBCRU7446,9-May-10,21:00,KL0445,Myotis ater,F,34.7,5.75
+MBCRU7101,11-May-10,21:00,KL0437,Myotis ater,M,36.1,5
+MBCRU7107,14-May-10,7:00,KL0042,Myotis ridleyi,F,29,5.75
+MBCRUC2187,14-May-10,21:00,KL0050,Nycteris tragata,F,49.3,18
+MBCRU5535,23-May-10,21:00,KL0654,Phoniscus atrox,F,33.6,5.25
+MBCRU2442,25-May-10,21:00,KL0732,Phoniscus atrox,M,32.1,4.5
+MBCRU7443,6-May-10,21:00,KL0385,Rhinolophus lepidus,F,40.4,6
+MBCRU7444,6-May-10,21:00,KL0379,Rhinolophus lepidus,F,40.6,6
+MBCRU2169,10-Jun-10,21:00,KL0150,Rhinolophus lepidus,F,38.3,6.5
+MBCRU5667,12-May-10,21:00,KL0032,Rhinolophus lepidus,F,40.6,6.5
+MBCRU7437,3-May-10,21:00,KL0329,Rhinolophus lepidus,F,40,6.75
+MBCRU7262,10-May-10,21:00,KL0423,Rhinolophus lepidus,F,40,6.75
+MBCRU7149,11-May-10,7:00,KL0441*,Rhinolophus lepidus,F,39.9,7
+MBCRU7117,25-May-10,21:00,KL0728,Rhinolophus lepidus,F,40,7
+MBCRU7450,11-May-10,21:00,KL0010,Rhinolophus lepidus,F,41.5,7.5
+MBCRUC0876,31-May-10,21:00,KL0767,Rhinolophus lepidus,F,41,7.75
+MBCRU7449,10-May-10,7:00,KL0429,Rhinolophus lepidus,M,41.5,7
+MBCRUC2234,14-Jun-10,7:00,KL0170,Rhinolophus stheno,F,45.3,8.75
+MBCRUC2233,14-Jun-10,21:00,KL0082,Rhinolophus stheno,F,46,8.75
+MBCRUC2184,12-May-10,7:00,KL0026,Rhinolophus stheno,F,46,9
+MBCRUA7241,11-May-10,7:00,KL0004,Rhinolophus stheno,F,43.1,9.5
+MBCRUC2175,10-May-10,7:00,KL0487,Rhinolophus stheno,F,45,9.5
+MBCRUC1298,14-Jun-10,21:00,KL0090,Rhinolophus stheno,F,45.6,9.5
+MBCRUC2168,8-May-10,7:00,KL0395,Rhinolophus stheno,F,46.1,9.5
+MBCRUC2185,12-May-10,7:00,KL0030,Rhinolophus stheno,F,47.7,9.5
+MBCRUC2065,6-Jun-10,21:00,KL0130,Rhinolophus stheno,F,46.5,9.75
+MBCRU2207,27-May-10,7:00,KL0734,Rhinolophus stheno,F,45.3,10
+MBCRUC2171,8-May-10,7:00,KL0397,Rhinolophus stheno,F,45.9,10.25
+MBCRUC2177,11-May-10,21:00,KL0002,Rhinolophus stheno,F,46.3,11.25
+MBCRUC2193,24-May-10,21:00,KL0648,Rhinolophus stheno,M,45.9,8.25
+MBCRUC2170,8-May-10,7:00,KL0397,Rhinolophus stheno,M,45.8,9.5
+MBCRUC2220,30-May-10,7:00,KL0805,Rhinolophus stheno,M,46,9.5
+MBCRUC2180,11-May-10,7:00,KL0002,Rhinolophus stheno,M,45.3,10.25
+MBCRUC2169,8-May-10,7:00,KL0395,Rhinolophus trifoliatus,F,49.8,13.5
+MBCRC2135,31-May-10,21:00,KL0777,Rhinolophus trifoliatus,F,53.1,13.75
+MBCRUC2216,29-May-10,7:00,KL0806,Rhinolophus trifoliatus,F,51.5,14
+MBCRUC2222,31-May-10,7:00,KL0785,Rhinolophus trifoliatus,F,48.5,14.5
+MBCRUC2079,14-Jun-10,21:00,KL0170,Rhinolophus trifoliatus,F,52.6,14.5
+MBCRUC2134,28-May-10,21:00,KL0764,Rhinolophus trifoliatus,F,53.1,14.5
+MBCRUC1326,2-May-10,7:00,KL0457,Rhinolophus trifoliatus,F,50.9,15.25
+MBCRUC1326,2-May-10,7:00,KL0457,Rhinolophus trifoliatus,F,50.9,15.25
+MBCRUC0862,23-May-10,21:00,KL0653,Rhinolophus trifoliatus,F,51.5,15.25
+MBCRUC0864,4-Jun-10,7:00,KL0698,Rhinolophus trifoliatus,F,52.7,15.5
+MBCRUC0728,10-May-10,21:00,KL0493,Rhinolophus trifoliatus,F,52,16.5
+MBCRUC1940,8-Jun-10,7:00,KL0122,Rhinolophus trifoliatus,F,52.7,16.75
+MBCRUC0872,25-May-10,21:00,KL0712,Rhinolophus trifoliatus,F,50.2,17.25
+MBCRUC0864,24-May-10,21:00,KL0650,Rhinolophus trifoliatus,F,53,19
+MBCRUA7139,14-Jun-10,21:00,KL-X,Rhinolophus trifoliatus,M,47.3,11
+MBCRUC2070,10-Jun-10,21:00,KL0150,Rhinolophus trifoliatus,M,46.5,11.5
+MBCRUC2249,25-May-10,21:00,KL0724,Rhinolophus trifoliatus,M,48.3,12.25
+MBCRUC2136,28-May-10,21:00,KL0764,Rhinolophus trifoliatus,M,47.7,13
+MBCRUC0963,10-Jun-10,21:00,KL0160,Rhinolophus trifoliatus,M,51.5,13
+MBCRUC2250,25-May-10,21:00,KL0712,Rhinolophus trifoliatus,M,52.4,13
+MBCRUC0631,4-Jun-10,7:00,KL0669,Rhinolophus trifoliatus,M,49.2,13.5
+MBCRUC2163,3-May-10,21:00,KL0333,Rhinolophus trifoliatus,M,51,13.75
+MBCRUC2221,31-May-10,7:00,KL0785,Rhinolophus trifoliatus,M,49.5,14.25
+MBCRUC0883,3-Jun-10,21:00,KL0735,Rhinolophus trifoliatus,M,52.4,14.25
+MBCRUC2164,3-May-10,7:00,KL0321,Rhinolophus trifoliatus,M,50.3,14.5
+MBCRUC2186,14-May-10,21:00,KL0635,Rhinolophus trifoliatus,M,53.1,15
+MBCRUC0896,30-May-10,7:00,KL0802,Rhinolophus trifoliatus,M,47.7,15.5
