@@ -1,6 +1,5 @@
-import csv
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 
 data = pd.read_csv('bat_data.csv')
 print(data.head(5))
@@ -16,5 +15,6 @@ print(bat_weight)
 print(bat_weight.describe())
 bat_weight.boxplot()
 plt.show()
+#add new code here
 
 
