@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as nd
 
 data = pd.read_csv('bat_data.csv')
 print(data.head(5))
