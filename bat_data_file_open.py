@@ -76,27 +76,59 @@ print('Confidence Interval Female FA(mm) All Bats Low {} High {}'.format(CIwt[0]
 print('\n-------------------------------------')
 
 overall_female.boxplot()
-plt.title('Female only - All Species')
+plt.title('Female only - All Species N=142')
 plt.show()
 overall_male.boxplot()
-plt.title('Male only - All Species')
+plt.title('Male only - All Species N=125')
 plt.show()
 
 subgrp_late_capture_time = data['Time'] == '21:00'
 subgrp_early_capture_time = data['Time'] == '7:00'
 
-subgrp_early_capture_time.boxplot()
-plt.title('Early Capture - All Species')
+early_bats = data[subgrp_early_capture_time]
+late_bats = data[subgrp_late_capture_time]
+
+early_bats.boxplot()
+plt.title('Early Capture - All Species N = 78')
 plt.show()
-subgrp_late_capture_time.boxplot()
-plt.title('Late capture - All Species')
+early_bats.hist()
+plt.title('Early Capture - All Species N = 78')
 plt.show()
+
+late_bats.boxplot()
+plt.title('Late capture - All Species N = 189')
+plt.show()
+late_bats.hist()
+plt.title('Late capture - All Species N = 189')
+plt.show()
+
+print('Early Correlation Coefficient')
+print(early_bats['FA(mm)'].corr(early_bats['Wt(g)']))
+
+CIwt = bootstrap.ci(data=early_bats['FA(mm)'], statfunction=scipy.mean)
+print('Confidence Interval Early FA(mm) All Species Bats Low {} High {}'.format(CIwt[0], CIwt[1]))
+print('\n-------------------------------------')
+
+CIwt = bootstrap.ci(data=early_bats['Wt(g)'], statfunction=scipy.mean)
+print('Confidence Interval Early Wt(g) All Species Bats Low {} High {}'.format(CIwt[0], CIwt[1]))
+print('\n-------------------------------------')
+
+print('Late Correlation Coefficient')
+print(late_bats['FA(mm)'].corr(late_bats['Wt(g)']))
+
+CIwt = bootstrap.ci(data=late_bats['FA(mm)'], statfunction=scipy.mean)
+print('Confidence Interval Late FA(mm) All Species Bats Low {} High {}'.format(CIwt[0], CIwt[1]))
+print('\n-------------------------------------')
+
+CIwt = bootstrap.ci(data=late_bats['Wt(g)'], statfunction=scipy.mean)
+print('Confidence Interval Late Wt(g) All Species Bats Low {} High {}'.format(CIwt[0], CIwt[1]))
+print('\n-------------------------------------')
 
 print('All Species Late Capture Time')
-print(subgrp_late_capture_time.describe())
+print(data[subgrp_late_capture_time].describe())
 
 print('All Species Early Capture Time')
-print(subgrp_early_capture_time.describe())
+print(data[subgrp_early_capture_time].describe())
 
 overall_male_early = data[subgrp_Mcriteria & subgrp_early_capture_time]
 overall_male_late = data[subgrp_Mcriteria & subgrp_late_capture_time]
@@ -112,20 +144,20 @@ overall_female_early = data[subgrp_Fcriteria & subgrp_early_capture_time]
 overall_female_late = data[subgrp_Fcriteria & subgrp_late_capture_time]
 
 overall_female_early.boxplot()
-plt.title('Female only Early - All Species')
+plt.title('Female only Early - All Species N=51')
 plt.show()
 overall_female_late.boxplot()
 plt.title('Female only Late - All Species')
 plt.show()
 
-print('All Species Female Early Statistical Summary')
+print('All Species Female Early Statistical Summary N=91')
 print(overall_female_early.describe())
 print('All Species Female Late Statistical Summary')
 print(overall_female_late.describe())
 
-print('All Species Male Early Statistical Summary')
+print('All Species Male Early Statistical Summary N=27')
 print(overall_male_early.describe())
-print('All Species Male Late Statistical Summary')
+print('All Species Male Late Statistical Summary N=98')
 print(overall_male_late.describe())
 
 print('Male only Early Correlation Coefficient')
@@ -159,9 +191,9 @@ print('\nEnd of All Species Analysis')
 
 subgrp_trap_location = data['Trap']
 
-# plt.scatter(data['Band'], data['Wt(g)'], c=data['Sex'] == 'F')
-# plt.title('All Species Scatterplot N = 267, female in yellow')
-# plt.show()
+plt.scatter(data['Band'], data['Wt(g)'], c=data['Sex'] == 'F')
+plt.title('All Species Scatterplot N = 267, female in yellow')
+plt.show()
 
 subgrp_len_gt = data["FA(mm)"] > [data["FA(mm)"].mean()]
 
