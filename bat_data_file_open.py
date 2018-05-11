@@ -81,7 +81,7 @@ plt.show()
 overall_male.boxplot()
 plt.title('Male only - All Species N=125')
 plt.show()
-
+#
 subgrp_late_capture_time = data['Time'] == '21:00'
 subgrp_early_capture_time = data['Time'] == '7:00'
 
